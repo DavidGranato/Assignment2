@@ -1,0 +1,102 @@
+Status : INCOMPLETE - at least one check did not pass
+Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pass)
+
+CS 1430 Assignment 2: The Cost of College
+GitHub user : unknown
+Repository  : unknown
+Commit      : unknown
+Message     : 
+Author      : 
+Committed   : 
+Checked     : 2026-10-12 12:38:56 Central Daylight Time
+Python      : 3.14.6
+
+================================================================
+CHECK RESULTS
+================================================================
+
+--- Toolchain ---
+[PASS] Python 3.14.6 is installed
+[PASS] main.py is in this folder
+[PASS] main.py runs without an error
+[PASS] The constants are unchanged
+[PASS] The launch lines are in place
+
+--- Your five functions (6 points each) ---
+[PASS] cost_per_semester gives back the right values  (6/6 pts)
+[PASS] cost_per_month gives back the right values  (6/6 pts)
+[PASS] cost_per_day gives back the right values  (6/6 pts)
+[PASS] cost_per_credit gives back the right values  (6/6 pts)
+[PASS] cost_per_class gives back the right values  (6/6 pts)
+
+--- Your program (10 points) ---
+[PASS] The menu runs from start to Q without an error  (5/5 pts)
+[PASS] Options 1 to 5 print all five amounts  (5/5 pts)
+
+--- Git and GitHub (required for your points to count) ---
+[PASS] Git is installed
+[PASS] This folder is a Git repository
+[FAIL] You have committed your own work
+   > So far there is only the template's first commit.
+   > In Source Control, type a message and click Commit.
+
+POINTS FROM check.py: 40 / 40
+
+================================================================
+PROGRAM OUTPUT  (typed: 14601, 15, 1, 2, 3, 4, 5, Q)
+================================================================
+The Cost of College
+Enter the total cost for one year: $Enter the credits you are taking this semester: 
+1. Cost per semester
+2. Cost per academic month
+3. Cost per class day
+4. Cost per credit
+5. Cost per 50-minute CS 1430 meeting
+6. Worth It? The cost of missing CS 1430
+Q. Quit
+Choose an option: Cost per semester: $7,300.50
+
+1. Cost per semester
+2. Cost per academic month
+3. Cost per class day
+4. Cost per credit
+5. Cost per 50-minute CS 1430 meeting
+6. Worth It? The cost of missing CS 1430
+Q. Quit
+Choose an option: Cost per academic month: $1,622.33
+
+1. Cost per semester
+2. Cost per academic month
+3. Cost per class day
+4. Cost per credit
+5. Cost per 50-minute CS 1430 meeting
+6. Worth It? The cost of missing CS 1430
+Q. Quit
+Choose an option: Cost per class day: $97.34
+
+1. Cost per semester
+2. Cost per academic month
+3. Cost per class day
+4. Cost per credit
+5. Cost per 50-minute CS 1430 meeting
+6. Worth It? The cost of missing CS 1430
+Q. Quit
+Choose an option: Cost per credit: $486.70
+
+1. Cost per semester
+2. Cost per academic month
+3. Cost per class day
+4. Cost per credit
+5. Cost per 50-minute CS 1430 meeting
+6. Worth It? The cost of missing CS 1430
+Q. Quit
+Choose an option: Cost per 50-minute CS 1430 meeting: $32.45
+
+1. Cost per semester
+2. Cost per academic month
+3. Cost per class day
+4. Cost per credit
+5. Cost per 50-minute CS 1430 meeting
+6. Worth It? The cost of missing CS 1430
+Q. Quit
+Choose an option: Goodbye!
